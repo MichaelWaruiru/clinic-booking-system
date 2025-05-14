@@ -8,13 +8,13 @@ Clinic Booking System – MySQL Relational Database Design
 
 This project implements a relational database for managing a medical clinic's operations. It supports:
 
-  1. Storing patient and doctor information
+  1. Storing patient and doctor's information.
 
-  2. Booking appointments
+  2. Booking appointments.
 
-  3. Managing prescriptions
+  3. Managing prescriptions.
 
-  4. Tracking medications and departments
+  4. Tracking medications and departments.
 
 Designed entirely in MySQL, it includes primary keys, foreign key constraints, 1:N and M:N relationships.
 
